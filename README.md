@@ -5,4 +5,4 @@ This repository is a collection of various C programming language examples, rang
 
 To Run this Codes you have install the C compiler on your device then pass the Command on the Terminal :-   gcc <filename> -o Myexe  -- for Mac/Linux System and for the Window Operating System the Command is : gcc <filename> -o <filename> 
 
-After the successful compilation of the code to display the output of the program you have to pass the command :- ./Myexe for Mac/Linux Operating System and for the Windows Operating System you have to pass the command : <filename>
+After the successful compilation of the code to display the output of the program you have to pass the command :- ./<filename> for Mac/Linux Operating System and for the Windows Operating System you have to pass the command : <filename>.exe
