@@ -22,7 +22,14 @@ Prerequisites
 
 You need a C compiler installed. GCC (GNU Compiler Collection) is highly recommended.
 
-Compile and Run a Program
+1. Clone the Repository
+
+Download the project files to your local machine:
+
+Bash:
+git clone https://github.com/nikhilsuryavanshi0005/Cpp_Programming.git
+
+2.Compile and Run a Program
 
 Navigate to the directory containing the desired file (e.g., 01_Fundamentals).
 
