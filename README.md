@@ -27,7 +27,7 @@ You need a C compiler installed. GCC (GNU Compiler Collection) is highly recomme
 Download the project files to your local machine:
 
 Bash:
-git clone https://github.com/nikhilsuryavanshi0005/Cpp_Programming.git
+git clone https://github.com/nikhilsuryavanshi0005/C_Programming_Repo.git
 
 2.Compile and Run a Program
 
